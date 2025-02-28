@@ -73,7 +73,7 @@ def monte_carlo_adjustment(row, weights, num_simulations=1000):
     return row
 
 # Streamlit App Title
-st.title("🧪 AI AUGMENTED CHEMICAL ANALYSIS: CHEMICAL CALCULATOR NATIONAL SCINECE DAY 28FEB 2025  - SAMRAT CHAKRABORTY & DEBDUTTA GHOSH")
+st.title("🧪 AI AUGMENTED CHEMICAL ANALYSIS: CHEMICAL CALCULATOR NATIONAL SCIENCE DAY 28FEB 2025  - SAMRAT CHAKRABORTY & DEBDUTTA GHOSH")
 
 # Option selection: Default dataset or upload your own
 data_source = st.radio("Choose data source:", ("Default Dataset", "Upload your Dataset"))
